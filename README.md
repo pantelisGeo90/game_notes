@@ -13,4 +13,4 @@ If a user did the correct amount of bazes just press the number of guesses (lef 
 
 > To install on an android you'll need to:  
 > settings > security > unknown sources > turn that to `true`  
-> when are done with the installation turn it back to `false`
+> when you'll be done with the installation turn it back to `false`
